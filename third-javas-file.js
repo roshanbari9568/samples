@@ -6,12 +6,12 @@ var myfirst =
     "Books": [
 
         { "FirstBook": "Core Java" },
-        { "SecondBook": "SQL Essentials by 'Tata Mackgraw Hill'" },
+        { "SecondBook": "SQL Essentials by 'Tata Mcgraw Hill'" },
         {
             "ThirdYearBook": [
 
                 {
-                    "FirstBook": "Computer Networking by Tata Mack graw Hill"
+                    "FirstBook": "Computer Networking by Tata Mcgraw Hill"
                 },
                 {
                     "SecondBook": "Project Management"
